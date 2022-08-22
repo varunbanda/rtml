@@ -1,0 +1,3 @@
+[{"score_model_id": "DecisionTreeClassifier", "model_name":"Test", "model_description": "Test", "model_type": "Binary", "primary_ds": "Alex Cortez", "business_unit": "Test", "last_update_date": "Test"},
+ {"score_model_id": "MultiRandomForestClassifier", "model_name":"Test", "model_description": "Test", "model_type": "Multinomial", "primary_ds": "Alex Cortez", "business_unit": "Test", "last_update_date": "Test"}
+]
