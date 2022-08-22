@@ -1,0 +1,6 @@
+{
+    "score_model_id":"DecisionTreeClassifier",
+    "feature_names": ["Pregnancies", "Glucose", "BloodPressure", "SkinThickness", "Insulin", "BMI", "DiabetesPedigreeFunction", "Age"],
+    "target_class_names": ["no_diabetes", "has_diabetes"],
+    "scoreset": [[6,148,72,35,0,33.6,0.627,99],[6,148,72,35,0,33.6,0.627,99],[6,148,72,35,0,33.6,0.627,99]]
+}
