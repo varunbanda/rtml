@@ -1,0 +1,6 @@
+{
+    "score_model_id":"MultiRandomForestClassifier",
+    "feature_names": ["sepal length", "sepal width", "petal length", "petal width"],
+    "target_class_names": ["setosa", "versicolor", "virginica"],
+    "scoreset": [[6.1,2.8,4.7,1.2],[6.1,2.8,4.7,1.2],[6.1,2.8,4.7,1.2],[6.1,2.8,4.7,1.2],[6.1,2.8,4.7,1.2]]
+}
